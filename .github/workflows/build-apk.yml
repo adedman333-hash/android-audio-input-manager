@@ -29,4 +29,3 @@ steps:
     with:
       name: audio-input-manager-apk
       path: app/build/outputs/apk/debug/*.apk
-
